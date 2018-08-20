@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visualizing wearable sensor movement using Ragdoll in Unity", "Assembly-CSharp.csproj", "{689BE1F1-2870-4610-0E38-26F1C6351225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689BE1F1-2870-4610-0E38-26F1C6351225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689BE1F1-2870-4610-0E38-26F1C6351225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689BE1F1-2870-4610-0E38-26F1C6351225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689BE1F1-2870-4610-0E38-26F1C6351225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
